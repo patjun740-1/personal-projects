@@ -1,8 +1,0 @@
-@font-face {
-    font-family: "NotoSansKR";
-    /* font-weight: 400; */
-    /* font-style: normal; */
-    font-display: auto;
-    /* unicode-range: U+000-5FF; */
-    src: local("NotoSansKR"), url("../styles/fonts/woff/NotoSansKR-Regular-Hestia.woff") format("woff2"), url("../styles//fonts//woff/NotoSansKR-Regular-Hestia.woff") format("woff");
-  }
