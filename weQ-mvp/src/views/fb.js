@@ -8,13 +8,7 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC0dk94r2cJACfbqDRmTF51KyPAOsfNuT0",
-  authDomain: "mvp-app-888ee.firebaseapp.com",
-  projectId: "mvp-app-888ee",
-  storageBucket: "mvp-app-888ee.appspot.com",
-  messagingSenderId: "466727804062",
-  appId: "1:466727804062:web:d988df6a2c1667ec006f8f",
-  measurementId: "G-8FTSB30ZW4"
+//  personal information deleted 
 };
 
 // Initialize Firebase
